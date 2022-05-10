@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .tw-test { @apply p-4 bg-ui-gold text-ui-gray-900; }
+}
