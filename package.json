@@ -1,6 +1,6 @@
 {
   "name": "@dcrall/tw-test",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Minimal Tailwind config and stylesheet for testing importing from module",
   "main": "index.js",
   "author": "Denny Crall",
@@ -12,7 +12,7 @@
     },
     "./tailwind.config.js": "./tailwind.config.js",
     "./tailwind.css": "./tailwind.css",
-    "./README.md": "./README.md"
+    "./index.js": "./index.js"
   },
   "files": [
     "tailwind.config.js",
